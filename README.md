@@ -1,3 +1,3 @@
 ## Exercício `OlaMundo`
 
-Faça um programa que exiba `Olá usuário, eu me chamo Ermogenes!` (utilize o seu nome).
+Faça um programa que exiba `Olá usuário, eu me chamo Ricardo` (utilize o seu nome).
